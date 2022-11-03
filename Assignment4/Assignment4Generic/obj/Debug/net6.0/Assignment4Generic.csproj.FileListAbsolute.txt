@@ -1,0 +1,15 @@
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.csproj.AssemblyReference.cache
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.AssemblyInfoInputs.cache
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.AssemblyInfo.cs
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.csproj.CoreCompileInputs.cache
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\bin\Debug\net6.0\Assignment4Generic.exe
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\bin\Debug\net6.0\Assignment4Generic.deps.json
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\bin\Debug\net6.0\Assignment4Generic.runtimeconfig.json
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\bin\Debug\net6.0\Assignment4Generic.dll
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\bin\Debug\net6.0\Assignment4Generic.pdb
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.dll
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\refint\Assignment4Generic.dll
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.pdb
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\Assignment4Generic.genruntimeconfig.cache
+C:\Users\Sam\Documents\2020Data\Assignments\Assignment4\Assignment4Generic\obj\Debug\net6.0\ref\Assignment4Generic.dll
