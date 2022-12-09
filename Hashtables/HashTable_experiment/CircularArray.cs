@@ -2,8 +2,6 @@
 
 namespace Assignment3Template
 {
-    // You are probably better to use the Circular array you made in the lab
-
     public class CircularArray<T> where T : IComparable
     {
         private T[] array;
@@ -24,7 +22,6 @@ namespace Assignment3Template
         // NYI fully.
         public void enqueue(T value)  //addBack is enqueue
         {
-
             // O(N), It searchs for priority in O(N), grows in O(N),
             // and moves the array back one in O(N), depending on how big your array is
 
@@ -131,60 +128,3 @@ namespace Assignment3Template
 
 }
 
-// Same old Grow, bit hard to know where to use it if at all though...
-// O(N)
-/* public void Grow(int newsize)
- {
-     CircularArray<T> newArray = new CircularArray<T>(newsize);
-     T current = array[queueFront];
-     while (current != null)
-     {
-         newArray.addBack(current);
-         queueFront = (queueFront + 1) % array.Length;
-         current = array[queueFront];
-     }
-     array = newArray.array;
-     queueFront = newArray.queueFront;
-     queueRear = newArray.queueRear;
- }*/
-
-//`````````````````````````
-// Given Circular array
-//```````````````````````````
-
-/*
-
-class CircularArray<T>
-    {
-        T[] thisarray;
-        private int front = 0; // index of front element
-        private int back = 0; // index of back element
-        public CircularArray() // constructor
-        { thisarray = new T[20]; }
-
-        public CircularArray(int size) // constructor with a size
-        { thisarray = new T[size]; }
-        public void enqueue(T input, int inputPriority)
-        {
-            // adds an element based on priority.
-            // Items with equal priority should be FIFO, but higher priorty should come first (so priority 5 jumps ahead of priority 4)
-        }
-
-        public T dequeue()
-        {
-            T temp = thisarray[front]; //
-
-            return temp;
-        }
-        public void printAll()
-        {
-            foreach (T x in thisarray)
-            Console.WriteLine(x.ToString());
-        }
-        public void deleteAll()
-        {
-            // dequeue all elements.
-        }
-    }
-}
-*/

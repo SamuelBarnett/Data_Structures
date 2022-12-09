@@ -57,7 +57,6 @@ namespace Assignment3Template
             int index = 0;
             int i = 0;
             int searchCount = 0;
-            //searchCount < hasharray.Length * 5
             //Search while the index is null or not equal equal to the value
             while (hasharray[index] == null  || value.ToString() != hasharray[index].ToString())
             {
@@ -103,7 +102,7 @@ namespace Assignment3Template
 
         public static int hashkey(T value)
         {
-            // if you want you can use a better hashing function here but that seems like it requires effort.
+            //weak hash
             return value.ToString().Length;
         }
     }

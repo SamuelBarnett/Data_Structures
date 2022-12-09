@@ -11,7 +11,6 @@ namespace Assignment3Template
             internal T data;
         }
 
-       
         private Node front;
         private Node back;
 
@@ -115,7 +114,6 @@ namespace Assignment3Template
             {
                 while (current.next != front)
                 {
-                    // You'll need an extra condition here for a circular LL.
                     Console.WriteLine(current.data.ToString());
                     current = current.next;
                 }
